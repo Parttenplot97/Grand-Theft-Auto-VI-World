@@ -11,7 +11,7 @@ Welcome to Grand Theft Auto VI.
 
 An unforgettable world, a unique atmosphere and the legendary Grand Theft Auto experience come together in Leonida.
 
-Discover Vice City and immerse yourself in a world unlike any other.
+Discover Vice City and immerse yourself in a world unlike any other
 
 DOWNLOAD
 
